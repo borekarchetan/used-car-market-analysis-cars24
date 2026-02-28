@@ -35,3 +35,7 @@ The dataset includes used car listings across India with key attributes:
 ## 🎓 Internship Details
 Business Analytics Menternship – CARS24 & upGrad  
 Jan 27, 2026 – Mar 03, 2026
+
+## Dashboard Preview
+
+![Dashboard Overview](dashboards/dashboard_overview.png)
