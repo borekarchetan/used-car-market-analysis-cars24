@@ -1,15 +1,15 @@
-# 🚗 Used Car Market Analysis – CARS24 Internship Project
+# Used Car Market Analysis – CARS24 Internship Project
 
-## 📌 Project Objective
+## Project Objective
 Conducted a data-driven analysis of the Indian used car market across multiple geographies to derive pricing, demand, and regional insights for strategic decision-making.
 
-## 🛠 Tools Used
+## Tools Used
 - SQL (Data Cleaning & Aggregation)
 - Tableau (Dashboard Development)
 - Exploratory Data Analysis (EDA)
 - Excel (Result Validation)
 
-## 📊 Dataset Overview
+## Dataset Overview
 The dataset includes used car listings across India with key attributes:
 - Manufacturer
 - Variant
@@ -19,14 +19,14 @@ The dataset includes used car listings across India with key attributes:
 - Transmission
 - India Locations
 
-## 🔍 Key Insights
+## Key Insights
 - Toyota Corolla leads total listings volume
 - Strong inverse relationship between mileage and price
 - Metro cities show higher resale value than Tier-2 cities
 - Automatic vehicles command higher average pricing
 - EVs have highest average price but low penetration
 
-## 📈 Dashboards Developed
+## Dashboards Developed
 - Mileage vs Price Analysis
 - Regional Price Distribution
 - Top Car Models by Volume
