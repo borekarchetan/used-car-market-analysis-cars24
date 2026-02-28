@@ -1,4 +1,10 @@
 # Used Car Market Analysis – CARS24 Internship Project
+## Project Overview
+
+This project analyzes the Indian used car market using real listing data to uncover pricing behavior, demand concentration, and regional variations.  
+Using SQL for data cleaning and aggregation, and Tableau for interactive dashboard development, the project derives business insights that can support pricing strategy, inventory planning, and market expansion decisions.
+
+The analysis focuses on model popularity, mileage–price relationships, and geographic distribution patterns across India.
 
 ## Project Objective
 Conducted a data-driven analysis of the Indian used car market across multiple geographies to derive pricing, demand, and regional insights for strategic decision-making.
