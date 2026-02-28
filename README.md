@@ -32,7 +32,7 @@ The dataset includes used car listings across India with key attributes:
 - Top Car Models by Volume
 - Year-wise Pricing Trends
 
-## 🎓 Internship Details
+## Internship Details
 Business Analytics Menternship – CARS24 & upGrad  
 Jan 27, 2026 – Mar 03, 2026
 
