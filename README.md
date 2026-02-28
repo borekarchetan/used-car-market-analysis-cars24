@@ -38,4 +38,4 @@ Jan 27, 2026 – Mar 03, 2026
 
 ## Dashboard Preview
 
-![Dashboard Overview](dashboards/dashboard_overview.png)
+![Dashboard Overview](dashboards/dashboard_overview.jpeg)
